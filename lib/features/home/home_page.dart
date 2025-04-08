@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
                     NetworkImage('https://via.placeholder.com/150'),
               ),
               SizedBox(height: 20),
-              Text('Hi, Im Amarbabu ',
+              Text('Hi, Im Amarbabu T',
                   style: Theme.of(context).textTheme.headlineMedium),
               Text('Flutter & React Developer',
                   style: Theme.of(context).textTheme.titleMedium),
